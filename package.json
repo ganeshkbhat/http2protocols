@@ -14,6 +14,7 @@
   },
   "pre-commit": {
     "run": [
+      "test"
     ]
   },
   "pre-push": {
