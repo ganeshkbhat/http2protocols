@@ -1,14 +1,20 @@
-/*
-License: MIT
-Dynamic CGI serving using dynamic path imports for 
-     CGI supporting executable for Interpreted languages Embedded Distribution
-Contribution: 2018 Ganesh K. Bhat <ganeshsurfs@gmail.com> 
+/**
+ * 
+ * Package: 
+ * Author: Ganesh B
+ * Description: 
+ * Install: npm i  --save
+ * Github: https://github.com/ganeshkbhat/
+ * npmjs Link: https://www.npmjs.com/package/
+ * File: index.js
+ * File Description: 
+ * 
+ * 
 */
 
 /* eslint no-console: 0 */
 
 'use strict';
-
 
 interface ProtocolInterface {
     config: any;
