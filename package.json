@@ -14,7 +14,6 @@
   },
   "pre-commit": {
     "run": [
-      
     ]
   },
   "pre-push": {
@@ -36,6 +35,24 @@
     "url": "https://github.com/ganeshkbhat/filehandler/issues"
   },
   "homepage": "https://github.com/ganeshkbhat/filehandler#readme",
+  "dependencies": {
+    "concurrency.js": "^0.0.23-beta",
+    "crypto-js": "^4.1.1",
+    "fsevents": "^2.3.2",
+    "ftps": "^1.2.0",
+    "hasher-apis": "^0.2.7",
+    "http-proxy": "1.18.1",
+    "http-proxy-to-socks": "1.1.2",
+    "node-ipc": "^11.1.0",
+    "shelljs": "0.8.5",
+    "socket-proxy": "^1.1.0",
+    "socket.io-client": "^4.6.1",
+    "socks": "^2.7.1",
+    "ssh2": "^1.11.0",
+    "udp-proxy": "1.2.0",
+    "wait-on": "^7.0.1",
+    "ws": "^8.13.0"
+  },
   "devDependencies": {
     "@types/node": "^20.11.16",
     "chai": "^4.4.1",
