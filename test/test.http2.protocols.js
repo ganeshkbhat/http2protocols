@@ -18,7 +18,6 @@
 
 const { expect } = require('chai');
 
-
 describe('[request tests] Tests to ', () => {
   let tst, written;
   before(() => {
